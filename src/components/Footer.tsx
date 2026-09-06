@@ -38,7 +38,7 @@ export default function Footer({ navigate }: FooterProps) {
                 <MessageCircle className="w-4 h-4 text-white" />
               </a>
               <a
-                href="mailto:contato@souzabeats.com.br"
+                href="mailto:djricardofm@gmail.com"
                 className="w-9 h-9 rounded-lg bg-ink-800 hover:bg-brand-600 flex items-center justify-center transition-colors"
                 aria-label="E-mail"
               >
@@ -105,7 +105,7 @@ export default function Footer({ navigate }: FooterProps) {
               </li>
               <li>
                 <a
-                  href="mailto:contato@souzabeats.com.br"
+                  href="mailto:djricardofm@gmail.com"
                   className="flex items-center gap-2 text-sm text-gray-400 hover:text-brand-400 transition-colors"
                 >
                   <Mail className="w-4 h-4 text-brand-400" />
