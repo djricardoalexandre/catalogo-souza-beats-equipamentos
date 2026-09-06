@@ -59,13 +59,13 @@ export default function ContactPage({ navigate }: { navigate: NavigateFn }) {
             <ContactItem
               icon={Mail}
               label="E-mail"
-              value="contato@souzabeats.com.br"
-              href="mailto:contato@souzabeats.com.br"
+              value="djricardofm@gmail.com"
+              href="mailto:djricardofm@gmail.com"
             />
             <ContactItem
               icon={MapPin}
               label="Localização"
-              value="Belo Horizonte - MG, Brasil"
+              value="Rio Espera - MG, Brasil"
             />
 
             {/* Quick links */}
